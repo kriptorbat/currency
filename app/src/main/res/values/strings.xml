@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Сurrency</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Currency">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="CurrencyCBR">
+        <item>R01235</item><!-- Долар -->
+        <item>R01239</item><!-- Евро -->
+        <item>R01035</item><!-- Фунт стерлингов Соединенного королевства -->
+        <item>R01820</item><!-- Японская иена -->
+        <item>R01010</item><!-- Австралийский доллар -->
+        <item>R01375</item><!-- китайский юань -->
+    </string-array>
+    <string-array name="CurrencyCBRStandart">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>CNY</item>
+    </string-array>
+
+</resources>
